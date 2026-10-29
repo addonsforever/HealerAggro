@@ -1,0 +1,9 @@
+## Interface: 16001, 50504
+## Title: Healer Aggro
+## Notes: Warns you when a monster is attacking your group's healer.
+## Version: 1.0
+## SavedVariables: HealerAggroDB
+
+Threat.lua
+Alert.lua
+Core.lua
